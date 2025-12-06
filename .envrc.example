@@ -1,0 +1,2 @@
+export TF_VAR_region="your_region"
+export TF_VAR_project_id="your_project_id"
